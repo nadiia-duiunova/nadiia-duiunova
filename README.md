@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nadiia</h1>
 <h3 align="center">a passionate Data Science newcomer</h3>
 
-- 🔭 I’m currently working on **different learning ML projects**
+- 🔭 I’m currently working on **my own pet-project**
 
 - 🌱 I’m currently learning **tranformer networks and attention mechanism**
 
