@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nadiia</h1>
 <h3 align="center">a passionate Data Science newcomer</h3>
 
-- 🔭 I’m currently working on **my second pet-project**
+- 🔭 I’m currently working on [**my second pet-project**](https://github.com/nadiia95/House_price]
 
 - 🌱 I’m proud of **my Adults pet project** that can be found [here](https://income-class-prediction.herokuapp.com)
 
