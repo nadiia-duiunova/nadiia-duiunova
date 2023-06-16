@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **[my second pet-project](https://github.com/nadiia95/House_price)**
 
+- 📔 I'm currently learning **AWS**
+
 - 🌱 I’m proud of **my Adults pet project** that can be found [here](https://income-class-prediction.herokuapp.com)
 
 - 💬 Ask me about **statistics, machine learning**
