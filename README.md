@@ -1,11 +1,9 @@
 <h1 align="center">Hey, I'm Nadiia</h1>
 <h3 align="center">a passionate Data Science newcomer</h3>
 
-- 🔭 I’m currently working on **[my second pet-project](https://github.com/nadiia95/House_price)**
+- 🔭 I’m currently working on **AWS certification**
 
-- 📔 I'm currently learning **AWS**
-
-- 🌱 I’m proud of **my Adults pet project** that can be found [here](https://income-class-prediction.herokuapp.com)
+- 🌱 I’m proud of **portfolio with my projects** that can be found [here](https://nadiia-duiunova-portfolio.onrender.com/)
 
 - 💬 Ask me about **statistics, machine learning**
 
