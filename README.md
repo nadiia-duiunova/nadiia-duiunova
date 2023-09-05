@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nadiia</h1>
 <h3 align="center">a passionate Data Science newcomer</h3>
 
-- 🔭 I’m currently working on **AWS certification**
+- 🔭 I’m currently learning **Time Series**
 
 - 🌱 I’m proud of **portfolio with my projects** that can be found [here](https://nadiia-duiunova-portfolio.onrender.com/)
 
