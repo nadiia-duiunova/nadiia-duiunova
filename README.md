@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Time Series**
 
-- 🌱 I’m proud of **portfolio with my projects** that can be found [here](https://nadiia-duiunova-portfolio.onrender.com/)
+- 🌱 I’m proud of **portfolio with my projects** that can be found [here](https://portfolio.nadiia.space/)
 
 - 💬 Ask me about **statistics, machine learning**
 
