@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Nadiia</h1>
-<h3 align="center">a passionate Data Science newcomer</h3>
+<h3 align="center">currenty studying Artificial Intelligence (M.Sc.) at THWS</h3>
 
 - 🔭 I’m currently learning **Time Series**
 
