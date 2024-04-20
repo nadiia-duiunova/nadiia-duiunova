@@ -1,11 +1,13 @@
 <h1 align="center">Hey, I'm Nadiia</h1>
 <h3 align="center">currenty studying Artificial Intelligence (M.Sc.) at THWS</h3>
 
-- 🔭 I’m currently learning **Time Series**
+- 🔭 I’m currently working on **image segmentation** problem at Fraunhofer IIS
 
 - 🌱 I’m proud of **portfolio with my projects** that can be found [here](https://nadiia.space/)
 
 - 💬 Ask me about **statistics, machine learning**
+
+- 👅 Speaking: English, German, Ukrainian(native)
 
 - 📫 How to reach me: **nadiia.duiunova@gmail.com**
 
