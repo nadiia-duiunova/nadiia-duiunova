@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nadiia</h1>
 <h3 align="center">student of M.Sc. Artificial Intelligence program at THWS, Germany </h3>
 
-- 🔭 I’m currently working on **image segmentation** problem at Fraunhofer IIS
+- 🔭 I’m currently working on a **computer vision** problem at Fraunhofer IIS
 
 - 🌱 I’m proud of **portfolio with my projects** that can be found [here](https://nadiia.space/)
 
