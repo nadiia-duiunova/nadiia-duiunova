@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on a **computer vision** problem at Fraunhofer IIS
 
-- 🌱 I’m proud of **portfolio with my projects** that can be found [here](https://nadiia.space/)
+- 💬 Ask me about **statistics, machine learning, deep learning**
 
-- 💬 Ask me about **statistics, machine learning**
-
-- 👅 Speaking: English, German, Ukrainian(native)
+- 👅 Speaking: English, German, Ukrainian (native)
 
 - 📫 How to reach me: **nadiia.duiunova@gmail.com**
 
